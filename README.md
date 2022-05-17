@@ -21,12 +21,15 @@ pip3 install -r requirements.txt
 ### Running the App
 
 ```bash
-    streamlit run main.py
+streamlit run main.py
 ```
 
 ### Trouble Shooting
-For Windows user, installing dlib may require extra effort.
-For Linux/macOS use, install cmake before installing dlib.
+* For Windows user, installing dlib may require extra effort.
+* For Linux/macOS use, install cmake before installing dlib.
+
+### Test Image
+* Please see the images folder for test images
 
 ## Group Members
 
